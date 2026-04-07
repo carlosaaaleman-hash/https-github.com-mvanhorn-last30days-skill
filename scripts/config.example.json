@@ -1,0 +1,9 @@
+{
+  "channel_name": "Personal Finance EN",
+  "format": "both",
+  "add_captions": true,
+  "background_music": true,
+  "outro_duration_seconds": 5,
+  "music_style": "calm ambient",
+  "preset": "personal_finance_en"
+}
